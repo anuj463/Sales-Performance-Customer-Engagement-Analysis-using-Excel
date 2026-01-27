@@ -1,10 +1,10 @@
 1.The value_for_money column came into existence because there was a need 
 to find the products that gave value for the money spent by the customers.The 
-Company should decrease the actual price of the product to reach more 
+It matters to the company because company should decrease the actual price of the product to reach more 
 customers thereby increasing the sales.
 
 2.The common perception that the higher-priced products should recieve 
 better reviews has been changed because from the scatter chart plotted by
 me I understand that even the lower-priced products can recieve better reviews.
-Better reviews depends on the quality of the products so,the company should
+It matters to the business because better reviews depends on the quality of the products so,the company should
 focus on developing high quality products with reasonable price.
