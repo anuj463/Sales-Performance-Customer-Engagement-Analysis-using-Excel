@@ -1,0 +1,4 @@
+points:
+1.Looking at the dataset
+2.Observing the individual columns carefully
+3.Observing the headers,column names.

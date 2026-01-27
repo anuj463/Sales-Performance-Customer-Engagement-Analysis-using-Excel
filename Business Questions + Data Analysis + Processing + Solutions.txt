@@ -1,0 +1,69 @@
+Business Questions on Amazon Sales Dataset-
+
+1️.Which product categories generate the highest customer engagement? 
+
+2️.Is there a relationship between discount percentage and product ratings?
+
+3️.Which products provide the best value for money?
+
+4.Do higher-priced products receive better reviews than lower-priced products?
+
+5.Which categories have high ratings but low sales volume (hidden opportunities)?
+
+
+yellow header: Cleaned columns
+Black header: Value_for_money column
+
+
+Solution of 1st business question-
+I used the concept of pivot tables to know the product category having 
+the highest customer engagement.
+
+Solution of 2nd business question-
+Yes there is a relationship between discount percentage and product 
+ratings. This relationship can be visualized using scatter chart where along
+X-axis discount percentage is plotted and along Y-axis rating is plotted.
+This helps us to understand the relationship in a clearer way.
+
+Solution of 3rd business question-
+Firstly I created a Value_For_Money column and applied the formula 
+=Rating/discounted price
+Then I sorted whole table by considering Value_For_Money as a parameter to
+sort in Largest to smallest order.
+So from the Table the first 10 products provide best value for money.
+
+Solution of 4th business question-
+I used a scatter plot with price on the X-axis and rating on the Y-axis to analyze their relationship.
+The plot shows a wide spread of ratings across all price ranges, indicating no strong correlation.
+This suggests that higher price does not guarantee better customer reviews.
+
+Solution of 5th business question-
+The question requires aggregating multiple metrics like average rating and sales volume at the category level, 
+a pivot table is the most efficient and accurate way to summarize and compare grouped data.
+ 
+Step 1: Keep ALL categories above average rating
+
+Do not eliminate them yet.
+
+You now have a shortlist of good categories.
+
+Step 2: Apply the second condition — LOW sales volume
+
+Now look at Total Sales for only those high-rating categories.
+
+You have two clean, interview-safe ways to do this:
+
+Method 1 
+Define LOW sales as:
+
+Below average Total Sales
+
+How:
+
+Calculate or visually estimate the average of Total Sales
+
+Among the high-rating categories:
+
+Keep only those below this average
+
+Remaining categories = Hidden Opportunities

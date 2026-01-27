@@ -1,0 +1,20 @@
+Data Cleaning Steps:(Findings and Solutions)
+
+1.In each column I checked for incorrect/inconsistent values.
+
+2.Then I encountered rating_count column which had numeric values, but some values wtire ere left-aligned and where having comma(,) character in between the digits.
+So to clean the entire column which had text values but looking like numbers I used find and replace option and replace comma(,) with blank.This is how I cleaned the column.
+
+3.Initially the actual_price coulmn was having the encoding â‚¹ it is the encoding character for ₹(Indian rupees).Due to which when I applied to ISNUMBER() formula to the whole actual_price
+I got FALSE as the value for the entire column.So to solve this data cleaning issue I used Find and Replace option and replaced â‚¹ this character with nothing(Blank). Then When I checked 
+wether the values of actual_price column are numeric or not by using ISNUMBER() Formula I got the result as TRUE for each value in the actual_price column. So the actual_price column 
+has been cleaned.
+
+4.Then I observed that for a single product and product category multiple customer names were present in the same row which created confusion of clear distinction of customer names. I 
+solved it using Power Query feature in excel in which I selected comma(,) as the delimiter.Then I converted the inconsistent customer names in to proper case which are consistent customer
+user names.
+
+
+ 
+
+   

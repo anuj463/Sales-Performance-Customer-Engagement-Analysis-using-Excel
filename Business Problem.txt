@@ -1,0 +1,9 @@
+The business wants to evaluate product performance and pricing effectiveness to understand 
+what drives customer engagement, perceived value, and sales outcomes across product categories, 
+in order to identify optimization opportunities and hidden growth areas.
+
+Answer: The product performance is evaluated depending on the number of customers who purchase that 
+product and the pricing effectiveness is how well a product’s price converts into positive customer response 
+and sales.Here effectiveness of the price drives the customer engagement,percieved value and sale outcomes.
+Here there is a optimization opportunity and that is to decrease the discounted price leading to increase
+in sales.
