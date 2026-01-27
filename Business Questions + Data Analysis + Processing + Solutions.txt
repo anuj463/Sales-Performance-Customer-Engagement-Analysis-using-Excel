@@ -1,10 +1,10 @@
 Business Questions on Amazon Sales Dataset-
 
-1️.Which product categories generate the highest customer engagement? 
+1.Which product categories generate the highest customer engagement? 
 
-2️.Is there a relationship between discount percentage and product ratings?
+2.Is there a relationship between discount percentage and product ratings?
 
-3️.Which products provide the best value for money?
+3.Which products provide the best value for money?
 
 4.Do higher-priced products receive better reviews than lower-priced products?
 
@@ -65,5 +65,6 @@ Calculate or visually estimate the average of Total Sales
 Among the high-rating categories:
 
 Keep only those below this average
+
 
 Remaining categories = Hidden Opportunities
