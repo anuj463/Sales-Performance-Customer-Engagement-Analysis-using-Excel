@@ -5,5 +5,5 @@ GitHub cannot preview Excel files.
 
 How to open:
 1. Click the file.
-2. Click “Download”.
+2. Click “Download” by clicking on ...(Three dot) dropdown menue.
 3. Open it in Microsoft Excel.
