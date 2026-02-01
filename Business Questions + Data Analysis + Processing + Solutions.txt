@@ -35,7 +35,7 @@ So from the Table the first 10 products provide best value for money.
 Solution of 4th business question-
 I used a scatter plot with price on the X-axis and rating on the Y-axis to analyze their relationship.
 The plot shows a wide spread of ratings across all price ranges, indicating no strong correlation.
-This suggests that higher price does not guarantee better customer reviews.
+This suggests that higher-priced products does not guarantee better customer reviews.
 
 Solution of 5th business question-
 The question requires aggregating multiple metrics like average rating and sales volume at the category level, 
@@ -68,3 +68,4 @@ Keep only those below this average
 
 
 Remaining categories = Hidden Opportunities
+
