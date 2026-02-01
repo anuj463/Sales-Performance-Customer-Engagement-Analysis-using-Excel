@@ -51,7 +51,8 @@ Step 2: Apply the second condition — LOW sales volume
 
 Now look at Total Sales for only those high-rating categories.
 
-You have two clean, interview-safe ways to do this:
+You have two clean 
+:
 
 Method 1 
 Define LOW sales as:
@@ -68,4 +69,5 @@ Keep only those below this average
 
 
 Remaining categories = Hidden Opportunities
+
 
